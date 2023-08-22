@@ -10,14 +10,14 @@
     An Awesome to convert your text and Links into a QR Code which can be downloaded in JPG, PNG and SVG.
     <br/>
     <br/>
-    <a href="https://github.com/SuryanshOg/qr-generator"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/SuryanshOg/QRConvertHub"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/SuryanshOg/qr-generator">View Demo</a>
+    <a href="https://github.com/SuryanshOg/QRConvertHub">View Demo</a>
     .
-    <a href="https://github.com/SuryanshOg/qr-generator/issues">Report Bug</a>
+    <a href="https://github.com/SuryanshOg/qr-generator/QRConvertHub">Report Bug</a>
     .
-    <a href="https://github.com/SuryanshOg/qr-generator/issues">Request Feature</a>
+    <a href="https://github.com/SuryanshOg/qr-generator/QRConvertHub">Request Feature</a>
   </p>
 </p>
 
