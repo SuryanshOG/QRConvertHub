@@ -21,7 +21,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/SuryanshOg/qr-generator/total) ![Contributors](https://img.shields.io/github/contributors/SuryanshOg/qr-generator?color=dark-green) ![Forks](https://img.shields.io/github/forks/SuryanshOg/qr-generator?style=social) ![Stargazers](https://img.shields.io/github/stars/SuryanshOg/qr-generator?style=social) ![Issues](https://img.shields.io/github/issues/SuryanshOg/qr-generator) ![License](https://img.shields.io/github/license/SuryanshOg/qr-generator) 
+![Downloads](https://img.shields.io/github/downloads/SuryanshOg/QRConvertHub/total) ![Contributors](https://img.shields.io/github/contributors/SuryanshOg/QRConvertHub?color=dark-green) ![Forks](https://img.shields.io/github/forks/SuryanshOg/QRConvertHub?style=social) ![Stargazers](https://img.shields.io/github/stars/SuryanshOg/QRConvertHub?style=social) ![Issues](https://img.shields.io/github/issues/SuryanshOg/QRConvertHub) ![License](https://img.shields.io/github/license/SuryanshOg/QRConvertHub) 
 
 ## About The Project
 
